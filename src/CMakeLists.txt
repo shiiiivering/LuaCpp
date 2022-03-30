@@ -1,0 +1,6 @@
+add_subdirectory(binchunk)
+add_subdirectory(vm)
+add_subdirectory(api)
+add_subdirectory(common)
+add_subdirectory(state)
+add_subdirectory(number)
